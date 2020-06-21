@@ -8,5 +8,5 @@
       Always,friends are  meant to be pillars in one's life.Though, I had very less number of friends in my school,in contrary to that I have larger friends in my college.My friends are always being my stress busters.My friends gave lot of confident to face the reality.Moreover,as like me my friends are also fun loving persons,We make the surroundings happy.<br/>
 ## Blogger<br/>
      In order to express our thoughts to the world writing is one way of medium.So,I started writing the stories which I have learnt or heard of and  stting posting in the website.Also,writing is one of the stress busters if you are under termendous stress.Whenever I started writing stories I feel so light inside my heart.<br/><br/>
-## ""ALWAYS,SUCCESS IS A JOURNEY,NOT A DESTINATION.""
+##                                         ""ALWAYS,SUCCESS IS A JOURNEY,NOT A DESTINATION.""
       
