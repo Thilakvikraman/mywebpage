@@ -1,3 +1,5 @@
+![pic 1](https://user-images.githubusercontent.com/52696573/85228546-99693f80-b401-11ea-8e30-b1bf6a13a9ed.jpg)
+
 ## ChildHood<br/>
       I was born on April 21st 2000 in Pollachi.My parents are Murugavel,a Farmer and Hemalatha ,a house-wife. My family is the biggest strength of mine.Since,I was the only kid of my parents I was given the freedom to choose the path what I wanted.I was the youngest kid of all my cousins,I really had an opportunities to learn from them.I joined school  at the age of 3, in RVS Matriculation Higher Secondary School.<br/>
 ## School-Life<br/>
