@@ -11,12 +11,11 @@
 <h2><strong>College life</strong></h2>
 <p class="college" style="color:black"><strong>Soon after my completion of schoolings,I joined in the stream of <b>Computer Science and Engineering at Sri Eshwar College of Engineering . Initially, I was little hesitant about volunteering myself in any of the <br>activities held in the college.Suddenly,one fine evening I started realizing ,"In order to widen my horizons,I should start participating in the events",so I started partipating in MOC for various events held in my <br>college.</strong></p>
 <h2><strong>Fun Loving Friends </strong></h2>
-<p><strong>Always,friends are  meant to be pillars in one's life.<br>Though, I had very less number of friends in my school,in contrary to that I have larger friends in my college.My friends are always being my stress busters.<br>My friends gave lot of confident to face the reality.Moreover,as like me my friends are also fun loving persons,We make the surroundings happy.</strong> </strong></p>
+<p><strong>Always,friends are  meant to be pillars in one's life.<br>Though, I had very less number of friends in my school,in contrary to that I have larger friends in my college.My friends are always being my stress busters.<br>My friends gave lot of confident to face the reality.Moreover,as like me my friends are also fun loving persons,We make the surroundings happy.</strong></p>
 <h2><strong>Blogger</strong></h2>
 <p class="blogger" style="color:black"><strong>In order to express our thoughts to the world writing is one way of medium.So,I started writing the stories which I have learnt or heard of and  stting posting in the website.<br>Also,writing is one of the stress busters if you are under termendous stress.Whenever I started writing stories I feel so light inside my heart. </strong><br></p>
-</div>
-<br>
 <p style="text-align:center;" style="color:blue"><strong>ALWAYS,SUCCESS IS A JOURNEY,NOT A DESTINATION.</strong></p> 
+ </div>
 </body>
 </html>
 
